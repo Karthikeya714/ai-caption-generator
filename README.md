@@ -14,9 +14,10 @@ A powerful Streamlit web application that generates creative, stylized captions 
 - **User-Friendly Interface**: Clean, intuitive Streamlit interface
 - **Real-time Processing**: Fast caption generation and styling
 
-## 🚀 Demo
+## 🌐 Live App
 
-![Demo Screenshot](demo.png) <!-- Add your screenshot here -->
+[🖼️ Try the AI Caption Generator](https://ai-caption-generator-j5uugvebbkyc4jls8xcpzt.streamlit.app/)
+
 
 ## 🛠️ Installation
 
