@@ -4,7 +4,7 @@ from transformers import BlipProcessor, BlipForConditionalGeneration
 import torch
 import requests
 
-# ✅ Securely load Hugging Face API key
+#  Securely load Hugging Face API key
 HF_API_TOKEN = st.secrets["hf_api_token"]
 
 # === Load BLIP model for image captioning ===
